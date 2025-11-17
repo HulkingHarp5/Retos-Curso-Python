@@ -1,0 +1,3 @@
+TIPO: Observación - DESCRIPCIÓN: Se inició el experimento a las 18:00 pm sin complicaciones.
+TIPO: Error - DESCRIPCIÓN: A las 19:32 se observó un error de contención
+TIPO: Mantenimiento - DESCRIPCIÓN: Se realizó mantenimiento exitoso, culminando a las 20:00 pm
